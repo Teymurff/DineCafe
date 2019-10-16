@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\CafeDine.csproj",
+      "projectUniqueName": "C:\\work\\DineCafe-master\\CafeDine\\CafeDine\\CafeDine.csproj",
       "projectName": "CafeDine",
-      "projectPath": "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\CafeDine.csproj",
+      "projectPath": "C:\\work\\DineCafe-master\\CafeDine\\CafeDine\\CafeDine.csproj",
       "packagesPath": "C:\\Users\\teymurff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\obj\\",
+      "outputPath": "C:\\work\\DineCafe-master\\CafeDine\\CafeDine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

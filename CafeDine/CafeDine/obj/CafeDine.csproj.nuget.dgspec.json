@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\CafeDine.csproj": {}
+    "C:\\Users\\teymurff\\Desktop\\DineCafe-master\\CafeDine\\CafeDine\\CafeDine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\CafeDine.csproj": {
+    "C:\\Users\\teymurff\\Desktop\\DineCafe-master\\CafeDine\\CafeDine\\CafeDine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\CafeDine.csproj",
+        "projectUniqueName": "C:\\Users\\teymurff\\Desktop\\DineCafe-master\\CafeDine\\CafeDine\\CafeDine.csproj",
         "projectName": "CafeDine",
-        "projectPath": "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\CafeDine.csproj",
+        "projectPath": "C:\\Users\\teymurff\\Desktop\\DineCafe-master\\CafeDine\\CafeDine\\CafeDine.csproj",
         "packagesPath": "C:\\Users\\teymurff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teymurff\\source\\repos\\CafeDine\\CafeDine\\obj\\",
+        "outputPath": "C:\\Users\\teymurff\\Desktop\\DineCafe-master\\CafeDine\\CafeDine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,6 +53,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
